@@ -28,7 +28,7 @@ ul {
   
   /* Change the link color to #111 (black) on hover */
   li a:hover {
-    background-color: #111;
+    background-color: #b54e4e;
   }
 
   .main {
@@ -48,7 +48,7 @@ ul {
    }
 
    aside {
-    width: 30%;
+    width: 20%;
     padding-left: 15px;
     margin-left: 15px;
     margin-top: 20px;
